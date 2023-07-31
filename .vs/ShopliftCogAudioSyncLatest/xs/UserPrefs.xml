@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{385B2F9D-730B-F21C-04F4-925385B18A02}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ExperimentSettings.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraZoneManager.cs" Line="68" Column="47" />
+      <File FileName="Assets/Scripts/AudioSyncPulser.cs" Line="75" Column="19" />
+      <File FileName="Assets/Scripts/CameraZone.cs" />
+      <File FileName="Assets/Scripts/ApartmentManager.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/AnswerSelector.cs" />
+      <File FileName="Assets/Scripts/ShoplifterScript.cs" Line="5811" Column="35" />
+      <File FileName="Assets/Scripts/ExperimentSettings.cs" Line="447" Column="36" />
+      <File FileName="Assets/MultipleChoiceGroup.cs" />
+      <File FileName="Assets/Scripts/DataPrint.cs" Line="34" Column="22" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="70" Column="17" />
+      <File FileName="Assets/SyncPulser.cs" Line="76" Column="39" />
+      <File FileName="Assets/Scripts/Logging/ShopliftLogTrack.cs" />
+      <File FileName="Assets/Scripts/GameClock.cs" />
+      <File FileName="Assets/Scripts/Experiment.cs" />
+      <File FileName="Assets/Scripts/Logging/Logger_Threading.cs" Line="145" Column="3" />
+      <File FileName="Assets/Scripts/Logging/TextLogTrack.cs" />
+      <File FileName="Assets/Scripts/EnvironmentManager.cs" />
+      <File FileName="Assets/Scripts/Config.cs" />
+      <File FileName="Assets/Scripts/SyncboxControl.cs" Line="324" Column="25" />
+      <File FileName="Assets/Scripts/Logging/Logger_Threading_New.cs" />
+      <File FileName="Assets/Scripts/Logging/LogTrack.cs" />
+      <File FileName="Assets/Scripts/Logging/ObjectLogTrack.cs" />
+      <File FileName="Assets/Scripts/EEG Communication/TCPServer.cs" />
+      <File FileName="Assets/Scripts/NatusAudio.cs" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Dropdown.cs" />
+      <File FileName="Assets/Scripts/CyberpunkManager.cs" />
+      <File FileName="Assets/Scripts/EEG Communication/TCP_Config.cs" />
+      <File FileName="Assets/Scripts/Logging/TrialLogTrack.cs" />
+      <File FileName="Assets/Scripts/Logging/TextMeshLogTrack.cs" />
+      <File FileName="../../ScaleMemory0216NewSolution2/ScaleMemory/Assets/Scripts/ElememTestRunner.cs" />
+      <File FileName="Assets/Scripts/Suitcase.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopliftCogAudioSyncLatest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Logging" expanded="True" />
+                <Node name="ExperimentSettings.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e47dd02d-e9d5-498a-834e-e118b31b7947" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
